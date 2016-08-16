@@ -1,0 +1,14 @@
+layout_spectrum: 0.4535123372916132
+typography_spectrum: 0.8965032352134585
+color:
+  brandStrength: 0.013164510019123554
+  lightness: 0.3966074010822922
+  saturation: 0.8178262652363628
+  rhythmicContrast: 0.49958031135611236
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+name: hucentric
